@@ -505,7 +505,7 @@ img {
 }
 .btn:hover,
 .btn:focus {
-  background-color: var(--background-color);
+  background-color: var(--second-text-color);
   color: var(--background-color);
 }
 
