@@ -431,6 +431,7 @@ img {
 
 .about-container {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-social-title {
